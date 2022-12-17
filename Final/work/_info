@@ -1,0 +1,698 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/22_23I/Digital IC Design/Final
+Eadder
+Z1 w1670234619
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx4 work 18 pooling_2d_package 0 22 Q8ibC:?dC>if7>`kbO`NZ0
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 7
+R0
+Z6 8D:/Study/22_23I/Digital IC Design/Final/Adder.vhd
+Z7 FD:/Study/22_23I/Digital IC Design/Final/Adder.vhd
+l0
+L5 1
+Vka3]j1Dlg?[io9iZAmO<K2
+!s100 1n?@VCV_h8@_Qk`1a5m`:0
+Z8 OL;C;2021.1;73
+32
+Z9 !s110 1670318521
+!i10b 1
+Z10 !s108 1670318521.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Adder.vhd|
+Z12 !s107 D:/Study/22_23I/Digital IC Design/Final/Adder.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aadder_architecture
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 ka3]j1Dlg?[io9iZAmO<K2
+!i122 7
+l18
+Z15 L13 13
+V_Q=B44<ImD5g7>0TD;j481
+!s100 [jg<<WV5cVYT9Vi?K4jG83
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Econtroller
+Z16 w1669793527
+R2
+R3
+R4
+R5
+!i122 8
+R0
+Z17 8D:/Study/22_23I/Digital IC Design/Final/Controller.vhd
+Z18 FD:/Study/22_23I/Digital IC Design/Final/Controller.vhd
+l0
+L5 1
+VcMN6CcP5Ck:RmKOPRNkW`3
+!s100 Ui>::lZA;Vm^Ij?ALc;iA1
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Controller.vhd|
+Z20 !s107 D:/Study/22_23I/Digital IC Design/Final/Controller.vhd|
+!i113 0
+R13
+R14
+Afsm
+R2
+R3
+R4
+R5
+DEx4 work 10 controller 0 22 cMN6CcP5Ck:RmKOPRNkW`3
+!i122 8
+l54
+L47 80
+V@ej7ciX?n:knE=LXdLhOm3
+!s100 `iG<TNEoAZO0^1<1I3@Rk1
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 0
+R13
+R14
+Ecounter
+Z21 w1669736267
+Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z23 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R4
+R5
+!i122 9
+R0
+Z24 8D:/Study/22_23I/Digital IC Design/Final/Counter.vhd
+Z25 FD:/Study/22_23I/Digital IC Design/Final/Counter.vhd
+l0
+L5 1
+Va`bDQEA1c18zC4z1M]?LU1
+!s100 Fc0ao=3lUebHO@aWH8K1X0
+R8
+32
+R9
+!i10b 1
+R10
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Counter.vhd|
+Z27 !s107 D:/Study/22_23I/Digital IC Design/Final/Counter.vhd|
+!i113 0
+R13
+R14
+Acounter_behavior
+R22
+R23
+R4
+R5
+DEx4 work 7 counter 0 22 a`bDQEA1c18zC4z1M]?LU1
+!i122 9
+l20
+L16 20
+V<a0<;UDf_0QAT4N1m4cOk1
+!s100 U9PTjgN>`NnnYc3[XVIC52
+R8
+32
+R9
+!i10b 1
+R10
+R26
+R27
+!i113 0
+R13
+R14
+Ecounter_tb
+Z28 w1669735788
+R2
+R3
+R22
+R23
+R4
+R5
+!i122 10
+R0
+Z29 8D:/Study/22_23I/Digital IC Design/Final/Counter_tb.vhd
+Z30 FD:/Study/22_23I/Digital IC Design/Final/Counter_tb.vhd
+l0
+L6 1
+VXSV0O3=YJnT@TX;zWW@;X0
+!s100 ZDnoO_PmoZJZakM7F78D91
+R8
+32
+R9
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Counter_tb.vhd|
+Z32 !s107 D:/Study/22_23I/Digital IC Design/Final/Counter_tb.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R2
+R3
+R22
+R23
+R4
+R5
+DEx4 work 10 counter_tb 0 22 XSV0O3=YJnT@TX;zWW@;X0
+!i122 10
+l18
+L9 28
+V70h0JfZB7M[dFXe50?[>^0
+!s100 iGe[UA^dhg:icS>ZgCGfe1
+R8
+32
+R9
+!i10b 1
+R10
+R31
+R32
+!i113 0
+R13
+R14
+Edatapath
+Z33 w1670234284
+R2
+R3
+R4
+R5
+!i122 11
+R0
+Z34 8D:/Study/22_23I/Digital IC Design/Final/Datapath.vhd
+Z35 FD:/Study/22_23I/Digital IC Design/Final/Datapath.vhd
+l0
+L5 1
+VeUizI6Z;0W^=2SGee>f<>2
+!s100 L@6j6PFHiJ3>lIh2Rb=iI1
+R8
+32
+R9
+!i10b 1
+R10
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Datapath.vhd|
+Z37 !s107 D:/Study/22_23I/Digital IC Design/Final/Datapath.vhd|
+!i113 0
+R13
+R14
+Adatapath_structure
+R2
+R3
+R4
+R5
+DEx4 work 8 datapath 0 22 eUizI6Z;0W^=2SGee>f<>2
+!i122 11
+l55
+L46 54
+VN_2KlEGkncLGFUnJ[kQaG0
+!s100 XSheIb]<CJRLcM8VUcm`S1
+R8
+32
+R9
+!i10b 1
+R10
+R36
+R37
+!i113 0
+R13
+R14
+Edemux1to2
+Z38 w1670234642
+R2
+R3
+R4
+R5
+!i122 12
+R0
+Z39 8D:/Study/22_23I/Digital IC Design/Final/DeMux1to2.vhd
+Z40 FD:/Study/22_23I/Digital IC Design/Final/DeMux1to2.vhd
+l0
+L5 1
+V`bd6EEKi8X9JSmNP_z76B2
+!s100 [cSY]EZ1b=hFEh6gQ8QjB2
+R8
+32
+R9
+!i10b 1
+R10
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/DeMux1to2.vhd|
+Z42 !s107 D:/Study/22_23I/Digital IC Design/Final/DeMux1to2.vhd|
+!i113 0
+R13
+R14
+Ademux_behavior
+R2
+R3
+R4
+R5
+DEx4 work 9 demux1to2 0 22 `bd6EEKi8X9JSmNP_z76B2
+!i122 12
+l15
+L14 5
+VDS^;2VHoPaKTGJ3<g=l151
+!s100 ?fPPTSZK33jNGodSmnemn3
+R8
+32
+R9
+!i10b 1
+R10
+R41
+R42
+!i113 0
+R13
+R14
+Edff
+Z43 w1669737105
+R22
+R23
+R4
+R5
+!i122 13
+R0
+Z44 8D:/Study/22_23I/Digital IC Design/Final/Dff.vhd
+Z45 FD:/Study/22_23I/Digital IC Design/Final/Dff.vhd
+l0
+L5 1
+VX3gGQZB3jQPdzzG8bI<=A2
+!s100 Td267kbVG>QE]V4F`Ho]E1
+R8
+32
+R9
+!i10b 1
+R10
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Dff.vhd|
+Z47 !s107 D:/Study/22_23I/Digital IC Design/Final/Dff.vhd|
+!i113 0
+R13
+R14
+Adff_behavior
+R22
+R23
+R4
+R5
+DEx4 work 3 dff 0 22 X3gGQZB3jQPdzzG8bI<=A2
+!i122 13
+l17
+L16 12
+V0gk0J^Gfz60SPl;8Ez3go2
+!s100 lMiML6^NWjh<]8;9U2VJX1
+R8
+32
+R9
+!i10b 1
+R10
+R46
+R47
+!i113 0
+R13
+R14
+Efull_adder
+Z48 w1668656501
+R4
+R5
+!i122 14
+R0
+Z49 8D:/Study/22_23I/Digital IC Design/Final/Full_adder.vhd
+Z50 FD:/Study/22_23I/Digital IC Design/Final/Full_adder.vhd
+l0
+L4 1
+VQ@EYF3KI]OWP=M:Ja7emm1
+!s100 SQ;i4653Z=L^2NifO7>643
+R8
+32
+R9
+!i10b 1
+R10
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Full_adder.vhd|
+Z52 !s107 D:/Study/22_23I/Digital IC Design/Final/Full_adder.vhd|
+!i113 0
+R13
+R14
+Aadder
+R4
+R5
+DEx4 work 10 full_adder 0 22 Q@EYF3KI]OWP=M:Ja7emm1
+!i122 14
+l14
+R15
+VQmQcP2iJS:a3S[8MQWQM[3
+!s100 5GG[8n`AmZa`WzkBKG^b72
+R8
+32
+R9
+!i10b 1
+R10
+R51
+R52
+!i113 0
+R13
+R14
+Einput_memory_32x32
+Z53 w1670234789
+R23
+R2
+R3
+R22
+R4
+R5
+!i122 15
+R0
+Z54 8D:/Study/22_23I/Digital IC Design/Final/Input_memory_32x32.vhd
+Z55 FD:/Study/22_23I/Digital IC Design/Final/Input_memory_32x32.vhd
+l0
+L9 1
+VRV]C5=f`XYlFQzF2`Ne4b0
+!s100 13CUKLjc6YbC`2nDR5MR52
+R8
+32
+Z56 !s110 1670318522
+!i10b 1
+Z57 !s108 1670318522.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Input_memory_32x32.vhd|
+Z59 !s107 D:/Study/22_23I/Digital IC Design/Final/Input_memory_32x32.vhd|
+!i113 0
+R13
+R14
+Ainput_memory_arch
+R23
+R2
+R3
+R22
+R4
+R5
+DEx4 work 18 input_memory_32x32 0 22 RV]C5=f`XYlFQzF2`Ne4b0
+!i122 15
+l61
+L20 59
+VCY]Y:mz58SZ5VnGPM3hPM2
+!s100 0^2WL;Ajmf0EAU[n7^l0z3
+R8
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R13
+R14
+Emux4to1
+Z60 w1670234476
+R2
+R3
+R4
+R5
+!i122 16
+R0
+Z61 8D:/Study/22_23I/Digital IC Design/Final/Mux4to1.vhd
+Z62 FD:/Study/22_23I/Digital IC Design/Final/Mux4to1.vhd
+l0
+L5 1
+VQ:XR5Xf:CN>Oh]4ojzkPC1
+!s100 NN03SeXOoEQPVfh05b?SS0
+R8
+32
+R56
+!i10b 1
+R57
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Mux4to1.vhd|
+Z64 !s107 D:/Study/22_23I/Digital IC Design/Final/Mux4to1.vhd|
+!i113 0
+R13
+R14
+Amux_behavior
+R2
+R3
+R4
+R5
+DEx4 work 7 mux4to1 0 22 Q:XR5Xf:CN>Oh]4ojzkPC1
+!i122 16
+l14
+L13 7
+V@:md0^Ijf3<E7Zf0^Sj@33
+!s100 S`_h<m_dGcMTS@d;ODD<_1
+R8
+32
+R56
+!i10b 1
+R57
+R63
+R64
+!i113 0
+R13
+R14
+Eoutput_memory_16x16
+Z65 w1670234722
+R23
+R2
+R3
+R22
+R4
+R5
+!i122 17
+R0
+Z66 8D:/Study/22_23I/Digital IC Design/Final/Output_memory_16x16.vhd
+Z67 FD:/Study/22_23I/Digital IC Design/Final/Output_memory_16x16.vhd
+l0
+L9 1
+Va7z4kQY2]fI@^][<8jig@0
+!s100 >3VTVceo9d07<=Tdc5f;W2
+R8
+32
+R56
+!i10b 1
+R57
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Output_memory_16x16.vhd|
+Z69 !s107 D:/Study/22_23I/Digital IC Design/Final/Output_memory_16x16.vhd|
+!i113 0
+R13
+R14
+Aoutput_memory_arch
+R23
+R2
+R3
+R22
+R4
+R5
+DEx4 work 19 output_memory_16x16 0 22 a7z4kQY2]fI@^][<8jig@0
+!i122 17
+l24
+L19 18
+VBXfR;:@NUBBHmYne^ABiI2
+!s100 10[8if:gNjh74bAT`EMXQ1
+R8
+32
+R56
+!i10b 1
+R57
+R68
+R69
+!i113 0
+R13
+R14
+Ppooling_2d_package
+R2
+R4
+R5
+!i122 18
+Z70 w1670234472
+R0
+Z71 8D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_package.vhd
+Z72 FD:/Study/22_23I/Digital IC Design/Final/Pooling_2D_package.vhd
+l0
+L6 1
+VQ8ibC:?dC>if7>`kbO`NZ0
+!s100 hE[P3:P5XQ=4mHHM]>H1T3
+R8
+32
+R56
+!i10b 1
+R57
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_package.vhd|
+Z74 !s107 D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_package.vhd|
+!i113 0
+R13
+R14
+Bbody
+R3
+R2
+R4
+R5
+!i122 18
+l0
+L224 1
+V?`bFiUXXgB=P0TmWzRQXK3
+!s100 07F:=NUcK7^E685lYe@lP3
+R8
+32
+R56
+!i10b 1
+R57
+R73
+R74
+!i113 0
+R13
+R14
+Epooling_2d_unit
+Z75 w1669792733
+R2
+R3
+R4
+R5
+!i122 19
+R0
+Z76 8D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_unit.vhd
+Z77 FD:/Study/22_23I/Digital IC Design/Final/Pooling_2D_unit.vhd
+l0
+L5 1
+VH_<n?ZA[FJ?V@[06K15202
+!s100 67e;9WCl?H[f5O:I0=?@U3
+R8
+32
+R56
+!i10b 1
+R57
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_unit.vhd|
+Z79 !s107 D:/Study/22_23I/Digital IC Design/Final/Pooling_2D_unit.vhd|
+!i113 0
+R13
+R14
+Apool2d_structure
+R2
+R3
+R4
+R5
+DEx4 work 15 pooling_2d_unit 0 22 H_<n?ZA[FJ?V@[06K15202
+!i122 19
+l23
+L17 19
+VD75Z`1E8]j`<11BZAkBHM1
+!s100 P3^QD2A79:WaYWZCeKk762
+R8
+32
+R56
+!i10b 1
+R57
+R78
+R79
+!i113 0
+R13
+R14
+Etest
+Z80 w1670234369
+R2
+R3
+R4
+R5
+!i122 20
+R0
+Z81 8D:/Study/22_23I/Digital IC Design/Final/test.vhd
+Z82 FD:/Study/22_23I/Digital IC Design/Final/test.vhd
+l0
+L5 1
+VbcYPF<bEo8Xl=EFmER?db1
+!s100 j@RVUYz5TF:TaE:bajXl32
+R8
+32
+R56
+!i10b 1
+R57
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/test.vhd|
+Z84 !s107 D:/Study/22_23I/Digital IC Design/Final/test.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R2
+R3
+R4
+R5
+DEx4 work 4 test 0 22 bcYPF<bEo8Xl=EFmER?db1
+!i122 20
+l20
+L8 36
+VmX7<PMKM6<DMGa0[?V6>d0
+!s100 4]:g7OLnIJ2`m8SAQE:mf3
+R8
+32
+R56
+!i10b 1
+R57
+R83
+R84
+!i113 0
+R13
+R14
+Ttest_opt
+!s110 1670318561
+V5nR?^@lSan^QGoQb`=Aam0
+04 4 8 work test behavior 1
+!s124 OEM100
+o+acc
+tCvgOpt 0
+ntest_opt
+OL;O;2021.1;73
+Etri_state_buffer
+Z85 w1670234564
+R4
+R5
+!i122 21
+R0
+Z86 8D:/Study/22_23I/Digital IC Design/Final/Tri_state_buffer.vhd
+Z87 FD:/Study/22_23I/Digital IC Design/Final/Tri_state_buffer.vhd
+l0
+L4 1
+VEoU9^__nVMO]FnEn@Q;hB2
+!s100 ;`14=jjHMjQczmP@a1U=12
+R8
+32
+R56
+!i10b 1
+R57
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Study/22_23I/Digital IC Design/Final/Tri_state_buffer.vhd|
+Z89 !s107 D:/Study/22_23I/Digital IC Design/Final/Tri_state_buffer.vhd|
+!i113 0
+R13
+R14
+Atri_state_buffer_behavior
+R4
+R5
+DEx4 work 16 tri_state_buffer 0 22 EoU9^__nVMO]FnEn@Q;hB2
+!i122 21
+l16
+L15 5
+V_K749QnMjm8OI]PVN1[Pg0
+!s100 Fk<Fh724XoXH[2@bBmGWL0
+R8
+32
+R56
+!i10b 1
+R57
+R88
+R89
+!i113 0
+R13
+R14
