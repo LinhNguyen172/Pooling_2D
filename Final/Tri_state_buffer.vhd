@@ -14,7 +14,6 @@ end entity;
 
 architecture tri_state_buffer_behavior of tri_state_buffer is
 begin
-
 	output <= input when enable = '1' else (others => 'Z');
 	
 end tri_state_buffer_behavior;

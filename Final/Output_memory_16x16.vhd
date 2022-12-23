@@ -25,7 +25,6 @@ begin
 
 --  Write data process
 Write_Proc : process (clk)
-
 	begin 
 	if (clk'event and clk = '1') then
 		if wen = '1' then
